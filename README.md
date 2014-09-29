@@ -1,4 +1,4 @@
-bash-3.2$ git --version
+```bash-3.2$ git --version
 git version 1.8.3.4 (Apple Git-47)
 
 bash-3.2$# Create a Git repository
@@ -13,10 +13,10 @@ drwxr-xr-x   4 jimmyjose  staff  136 Feb 21 23:55 ..
 drwxr-xr-x  10 jimmyjose  staff  340 Feb 21 23:55 .git
 
 bash-3.2$ git status
-\# On branch master
-\#
-\# Initial commit
-\#
+# On branch master
+#
+# Initial commit
+#
 nothing to commit (create/copy files and use "git add" to track)
 
 bash-3.2$ cp ../git_activity.log .
@@ -125,3 +125,4 @@ Writing objects: 100% (2/2), 252 bytes | 0 bytes/s, done.
 Total 2 (delta 0), reused 0 (delta 0)
 To git@github.com:JimmyJose/project1.git
    1e39ab9..ca4edf6  master -> master
+```
