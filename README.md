@@ -13,10 +13,10 @@ drwxr-xr-x   4 jimmyjose  staff  136 Feb 21 23:55 ..
 drwxr-xr-x  10 jimmyjose  staff  340 Feb 21 23:55 .git
 
 bash-3.2$ git status
-# On branch master
-#
-# Initial commit
-#
+\# On branch master
+\#
+\# Initial commit
+\#
 nothing to commit (create/copy files and use "git add" to track)
 
 bash-3.2$ cp ../git_activity.log .
